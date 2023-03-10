@@ -1,16 +1,6 @@
 # mean-variance-standard-deviation-calculatorr
 
-You will be working on this project with our Replit starter code.
-
-    Start by importing the project on Replit.
-    Next, you will see a .replit window.
-    Select Use run command and click the Done button.
-
-We are still developing the interactive instructional part of the Python curriculum. For now, here are some videos on the freeCodeCamp.org YouTube channel that will teach you everything you need to know to complete this project:
-
-    Python for Everybody Video Course(14 hours)
-
-    How to Analyze Data with Python Pandas (10 hours)
+we have developed the caluculator using numpy
 
 Create a function named calculate() in mean_var_std.py that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix.
 
